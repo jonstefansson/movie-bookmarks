@@ -1,0 +1,249 @@
+{
+  "title": "All That Jazz",
+  "year": "1979",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "It's Showtime, Folks",
+      "time": "00:00:00",
+      "bookmarks": []
+    },
+    {
+      "number": "2",
+      "title": "Cattle Call",
+      "time": "00:01:58",
+      "bookmarks": [
+        {
+          "time": "00:01:58",
+          "note": "On Broadway"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "The Stages of Death",
+      "time": "00:10:24",
+      "bookmarks": []
+    },
+    {
+      "number": "4",
+      "title": "Late-Night Visitors",
+      "time": "00:14:45",
+      "bookmarks": [
+        {
+          "time": "00:14:52",
+          "note": "Victoria Porter"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "The Silver Cloud",
+      "time": "00:19:02",
+      "bookmarks": []
+    },
+    {
+      "number": "6",
+      "title": "You Know I Love You, Katie",
+      "time": "00:22:50",
+      "bookmarks": []
+    },
+    {
+      "number": "7",
+      "title": "A New Song",
+      "time": "00:27:42",
+      "bookmarks": [
+        {
+          "time": "00:27:42",
+          "note": "First Run Through of Take Off With Us"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "In the Studio with Michelle",
+      "time": "00:32:14",
+      "bookmarks": [
+        {
+          "time": "00:32:14",
+          "note": "In the Studio with Michelle"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "Do It Again, Victoria",
+      "time": "00:35:59",
+      "bookmarks": [
+        {
+          "time": "00:35:59",
+          "note": "Do It Again, Victoria"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "title": "Rehearsal",
+      "time": "00:38:46",
+      "bookmarks": [
+        {
+          "time": "00:38:46",
+          "note": "Doctor Exam"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "title": "What Guilt?",
+      "time": "00:40:59",
+      "bookmarks": [
+        {
+          "time": "00:40:59",
+          "note": "Audrey, why do you think so small?"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "title": "Take Off With Us",
+      "time": "00:45:20",
+      "bookmarks": [
+        {
+          "time": "00:45:20",
+          "note": "Take Off With Us"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "title": "Airotica",
+      "time": "00:48:53",
+      "bookmarks": [
+        {
+          "time": "00:48:53",
+          "note": "Airotica"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "title": "It's a Bomb",
+      "time": "00:55:50",
+      "bookmarks": []
+    },
+    {
+      "number": "15",
+      "title": "Everything Old Is New Again",
+      "time": "00:57:55",
+      "bookmarks": [
+        {
+          "time": "00:59:26",
+          "note": "Everything Old Is New Again"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "title": "Read-Through",
+      "time": "01:03:14",
+      "bookmarks": []
+    },
+    {
+      "number": "17",
+      "title": "What Do Doctors Know?",
+      "time": "01:06:55",
+      "bookmarks": []
+    },
+    {
+      "number": "18",
+      "title": "Lucas Sergeant",
+      "time": "01:11:35",
+      "bookmarks": []
+    },
+    {
+      "number": "19",
+      "title": "In the Hospital",
+      "time": "01:13:59",
+      "bookmarks": []
+    },
+    {
+      "number": "20",
+      "title": "A Bad Review",
+      "time": "01:18:56",
+      "bookmarks": []
+    },
+    {
+      "number": "21",
+      "title": "Heart Surgery",
+      "time": "01:25:54",
+      "bookmarks": []
+    },
+    {
+      "number": "22",
+      "title": "Hospital Hallucination, Take 1",
+      "time": "01:29:23",
+      "bookmarks": [
+        {
+          "time": "01:30:03",
+          "note": "After You've Gone"
+        },
+        {
+          "time": "01:33:02",
+          "note": "You Better Change Your Ways"
+        },
+        {
+          "time": "01:33:47",
+          "note": "Old Friends"
+        },
+        {
+          "time": "01:36:12",
+          "note": "Some of these Days"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "title": "Heart Attack",
+      "time": "01:38:27",
+      "bookmarks": []
+    },
+    {
+      "number": "24",
+      "title": "Voyage Through the Hospital",
+      "time": "01:42:11",
+      "bookmarks": [
+        {
+          "time": "01:46:30",
+          "note": "Pack Up Your Troubles"
+        }
+      ]
+    },
+    {
+      "number": "25",
+      "title": "Bye Bye Life",
+      "time": "01:49:07",
+      "bookmarks": [
+        {
+          "time": "01:49:15",
+          "note": "Bye Bye Life"
+        },
+        {
+          "time": "01:56:04",
+          "note": "Final Goodbyes"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "title": "End Credits",
+      "time": "02:00:26",
+      "bookmarks": []
+    },
+    {
+      "number": "27",
+      "title": "Color Bars",
+      "time": "02:03:13",
+      "bookmarks": []
+    }
+  ]
+}
