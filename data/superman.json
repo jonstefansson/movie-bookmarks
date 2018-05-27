@@ -1,0 +1,341 @@
+{
+  "title": "Superman",
+  "year": "1978",
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Opening Credits",
+      "time": "00:00:00",
+      "bookmarks": []
+    },
+    {
+      "number": "2",
+      "title": "Krypton",
+      "time": "00:05:18",
+      "bookmarks": []
+    },
+    {
+      "number": "3",
+      "title": "Zorg imprisoned",
+      "time": "00:09:38",
+      "bookmarks": []
+    },
+    {
+      "number": "4",
+      "title": "Joral argues with elders",
+      "time": "00:11:18",
+      "bookmarks": []
+    },
+    {
+      "number": "5",
+      "title": "Joral prepares to save his son",
+      "time": "00:14:37",
+      "bookmarks": []
+    },
+    {
+      "number": "6",
+      "title": "Superman is sent off",
+      "time": "00:19:08",
+      "bookmarks": []
+    },
+    {
+      "number": "7",
+      "title": "Krypton is destroyed",
+      "time": "00:21:32",
+      "bookmarks": []
+    },
+    {
+      "number": "8",
+      "title": "Superman travels to earth",
+      "time": "00:22:50",
+      "bookmarks": []
+    },
+    {
+      "number": "9",
+      "title": "Superman lands on earth",
+      "time": "00:24:49",
+      "bookmarks": [
+        {
+          "time": "00:27:12",
+          "note": "Superman lifts truck"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "title": "Clark on football field",
+      "time": "00:27:44",
+      "bookmarks": [
+        {
+          "time": "00:29:10",
+          "note": "Clark kicks football"
+        },
+        {
+          "time": "00:29:36",
+          "note": "Clark races train"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "title": "You are here for a reason",
+      "time": "00:30:54",
+      "bookmarks": []
+    },
+    {
+      "number": "12",
+      "title": "Clark receives a sign",
+      "time": "00:35:50",
+      "bookmarks": []
+    },
+    {
+      "number": "13",
+      "title": "Clark travels to arctic fortress",
+      "time": "00:41:25",
+      "bookmarks": []
+    },
+    {
+      "number": "14",
+      "title": "Clark learns who he is",
+      "time": "00:45:00",
+      "bookmarks": []
+    },
+    {
+      "number": "15",
+      "title": "Clark's first day at Daily Planet",
+      "time": "00:50:19",
+      "bookmarks": [
+        {
+          "time": "00:53:31",
+          "note": "Actually, she's silver haired"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "title": "It's been swell",
+      "time": "00:54:52",
+      "bookmarks": [
+        {
+          "time": "00:55:57",
+          "note": "Mugger in alley"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "title": "Otis in the subway",
+      "time": "00:58:06",
+      "bookmarks": []
+    },
+    {
+      "number": "18",
+      "title": "Lex Luthor's lair",
+      "time": "01:02:38",
+      "bookmarks": []
+    },
+    {
+      "number": "19",
+      "title": "In the newsroom",
+      "time": "01:05:24",
+      "bookmarks": []
+    },
+    {
+      "number": "20",
+      "title": "Lois's helicopter crashes",
+      "time": "01:07:31",
+      "bookmarks": []
+    },
+    {
+      "number": "21",
+      "title": "Superman saves Lois in helicopter",
+      "time": "01:10:39",
+      "bookmarks": []
+    },
+    {
+      "number": "22",
+      "title": "Superman goes on good deed spree",
+      "time": "01:13:23",
+      "bookmarks": [
+        {
+          "time": "01:13:43",
+          "note": "Burglar climbing building"
+        },
+        {
+          "time": "01:15:12",
+          "note": "Car chase gunfight"
+        },
+        {
+          "time": "01:17:33",
+          "note": "Rescues Frisky from tree"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "title": "Superman saves Air Force One",
+      "time": "01:18:13",
+      "bookmarks": []
+    },
+    {
+      "number": "24",
+      "title": "My son. You are revealed to the world",
+      "time": "01:19:53",
+      "bookmarks": []
+    },
+    {
+      "number": "25",
+      "title": "Superman returns to New York",
+      "time": "01:22:14",
+      "bookmarks": [
+        {
+          "time": "01:24:50",
+          "note": "Does he have a girlfriend?"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "title": "A friend visits Lois",
+      "time": "01:25:51",
+      "bookmarks": [
+        {
+          "time": "01:26:55",
+          "note": "You really shouldn't smoke you know, Miss Lane"
+        },
+        {
+          "time": "01:29:02",
+          "note": "What color underwear"
+        }
+      ]
+    },
+    {
+      "number": "27",
+      "title": "How fast to you fly?",
+      "time": "01:30:47",
+      "bookmarks": [
+        {
+          "time": "01:31:06",
+          "note": "Take a ride with me?"
+        },
+        {
+          "time": "01:31:52",
+          "note": "Take off"
+        }
+      ]
+    },
+    {
+      "number": "28",
+      "title": "Lois flies with Superman",
+      "time": "01:33:50",
+      "bookmarks": [
+        {
+          "time": "01:34:50",
+          "note": "Can you read my mind?"
+        }
+      ]
+    },
+    {
+      "number": "29",
+      "title": "Superman returns Lois to apartment",
+      "time": "01:37:18",
+      "bookmarks": []
+    },
+    {
+      "number": "30",
+      "title": "Lex Luthor learns about kryptonite",
+      "time": "01:39:30",
+      "bookmarks": []
+    },
+    {
+      "number": "31",
+      "title": "Lex Luthor stages accident",
+      "time": "01:43:09",
+      "bookmarks": []
+    },
+    {
+      "number": "32",
+      "title": "Lex Luthor reprograms missile",
+      "time": "01:46:34",
+      "bookmarks": []
+    },
+    {
+      "number": "33",
+      "title": "Lois investigates land deal",
+      "time": "01:47:56",
+      "bookmarks": []
+    },
+    {
+      "number": "34",
+      "title": "Superman finds Lex Luthor",
+      "time": "01:51:53",
+      "bookmarks": []
+    },
+    {
+      "number": "35",
+      "title": "Superman breaks into Luthor's lair",
+      "time": "01:54:48",
+      "bookmarks": []
+    },
+    {
+      "number": "36",
+      "title": "Missile test",
+      "time": "01:58:21",
+      "bookmarks": []
+    },
+    {
+      "number": "37",
+      "title": "Miss Tessmacher saves Superman",
+      "time": "02:02:24",
+      "bookmarks": []
+    },
+    {
+      "number": "38",
+      "title": "Superman stops missile",
+      "time": "02:05:36",
+      "bookmarks": []
+    },
+    {
+      "number": "39",
+      "title": "Earthquake",
+      "time": "02:09:55",
+      "bookmarks": []
+    },
+    {
+      "number": "40",
+      "title": "Lois is buried",
+      "time": "02:12:21",
+      "bookmarks": []
+    },
+    {
+      "number": "41",
+      "title": "Superman finds Lois",
+      "time": "02:15:27",
+      "bookmarks": []
+    },
+    {
+      "number": "42",
+      "title": "Superman reverses Earth's rotation",
+      "time": "02:18:46",
+      "bookmarks": []
+    },
+    {
+      "number": "43",
+      "title": "Superman delivers Lex Luthor to prison",
+      "time": "02:22:28",
+      "bookmarks": []
+    },
+    {
+      "number": "44",
+      "title": "Closing Credits",
+      "time": "02:23:48",
+      "bookmarks": []
+    },
+    {
+      "number": "45",
+      "title": "End",
+      "time": "02:31:25",
+      "bookmarks": []
+    }
+  ]
+}
