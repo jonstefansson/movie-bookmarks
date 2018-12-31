@@ -1,11 +1,12 @@
 import sys
 import json
 
+
 class Bookmarks:
     
     @staticmethod
-    def display():
-        document = json.load(sys.stdin)
+    def display(input):
+        document = json.load(input)
         for chapter in document.get('chapters', []):
             print('{:>2} | {} |'.format(
                 chapter.get('number'),
@@ -20,8 +21,8 @@ class Bookmarks:
                 
 
     @staticmethod
-    def starbookmarks():
-        document = json.load(sys.stdin)
+    def starbookmarks(input):
+        document = json.load(input)
         chapters = document.get('chapters', [])
         bookmarks = [bookmark for chapter in chapters for bookmark in chapter.get('bookmarks') ]
         print(len(bookmarks))

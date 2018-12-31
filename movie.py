@@ -1,43 +1,35 @@
 #!/usr/bin/env /Users/jon/Documents/dev/python/workbench/venv/bin/python3
 
-import argparse
 from template import Template
 from bookmarks import Bookmarks
+import click
 
-def template():
+
+@click.group()
+def cli():
+    pass
+
+
+@click.command()
+@click.option('--count', default=1, help='number of chapters')
+@click.option('--title', required=True, help='Movie title')
+def template(count, title):
     """Generates a template to bootstrap a new data file
-    
-    Usage: ./movie.py template -n 20 --title 'Bull Durham'
     """
-    Template.generate(title=cli_args.title, num_chapters=cli_args.number)
+    Template.generate(title=title, num_chapters=count)
 
-def bookmarks():
+
+@click.command()
+@click.argument('input', type=click.File('rt'))
+def bookmarks(input):
     """Displays bookmarks with chapters
-    
-    Usage: ./movie.py bookmarks < data/movie_file.json
     """
-    Bookmarks.display()
+    Bookmarks.display(input)
+
+
+cli.add_command(template)
+cli.add_command(bookmarks)
+
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(
-        description='Toolkit for working with movie files'
-    )
-
-    parser.add_argument(
-        dest='command',
-        metavar='command',
-        help='The command to execute: template | bookmarks',
-        choices=['template', 'bookmarks']
-    )
-
-    parser.add_argument(
-        '-n', '--number'
-    )
-
-    parser.add_argument(
-        '-t', '--title'
-    )
-
-    cli_args = parser.parse_args()
-    # invoke the function designated by the command argument
-    locals()[cli_args.command]()
+    cli()
